@@ -1,3 +1,7 @@
+/* This code makes an LED connected to pin 13 on the board blink. 
+  Use 3.3 volts as power source, pictures yet to be added in a new file soon
+*/
+
 void setup() {
   // put your setup code here, to run once:
 
