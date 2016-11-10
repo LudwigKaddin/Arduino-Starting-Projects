@@ -3,7 +3,6 @@ void setup() {
 
 pinMode(13, OUTPUT); // Sets pin 13 to OUTPUT, sending 3.3 volts to the LED.
 
-
 }
 
 void loop() {
